@@ -42,7 +42,7 @@ describe("Receipt tests", function () {
         quantity: 1,
       },
       {
-        description: "imported box of perfume",
+        description: "imported bottle of perfume",
         type: "beauty",
         price: 47.5,
         imported: true,
