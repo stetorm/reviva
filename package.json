@@ -1,0 +1,18 @@
+{
+  "name": "reviva",
+  "version": "1.0.0",
+  "description": "interview test",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=local mocha --exit",
+    "start": "npm run test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Stefano Brega",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2"
+  }
+}
